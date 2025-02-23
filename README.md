@@ -1,4 +1,4 @@
-# 🌟 React Admin Dashboard - The Ultimate Management Tool
+# 🌟 React Admin Dashboard - The Ultimate Management Tools
 
 ![React Admin Dashboard](https://i.ibb.co/W6g39w3/image.png)
 
